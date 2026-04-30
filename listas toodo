@@ -1,0 +1,116 @@
+#EXTM3U
+
+# =========================
+
+# 🇪🇸 LISTAS ESPAÑA / GENERALES
+
+# =========================
+
+#EXTINF:-1 group-title="Listas España",TDTChannels
+https://iptv-org.github.io/iptv/countries/es.m3u
+
+#EXTINF:-1 group-title="Listas España",TV España Pastebin
+https://pastebin.com/dl/JLQbVRet
+
+#EXTINF:-1 group-title="Listas España",Lista España Raw
+https://pastebin.com/raw/4cBP6g5G
+
+#EXTINF:-1 group-title="Listas España",Lista España Alternativa
+http://bit.ly/tv_spain
+
+#EXTINF:-1 group-title="Listas España",TV España 2
+http://bit.ly/TV_ESPAÑA
+
+# =========================
+
+# 🌍 LISTAS LATINO
+
+# =========================
+
+#EXTINF:-1 group-title="Latino",Latino M3U 1
+https://www.achoapps.com/listas/latino4.m3u
+
+#EXTINF:-1 group-title="Latino",Latino M3U 2
+https://www.achoapps.com/listas/lista17.m3u
+
+#EXTINF:-1 group-title="Latino",Latino Bitly
+http://bit.ly/LatinoActualizado
+
+# =========================
+
+# 🎬 LISTAS PELÍCULAS / SERIES
+
+# =========================
+
+#EXTINF:-1 group-title="Películas",Películas M3U
+http://bit.ly/peliculas-m3u
+
+#EXTINF:-1 group-title="Películas",Films Full
+http://bit.ly/Films-FULL
+
+#EXTINF:-1 group-title="Películas",TV y Pelis
+http://bit.ly/tvypelism3u
+
+# =========================
+
+# ⚽ LISTAS DEPORTES / FÚTBOL
+
+# =========================
+
+#EXTINF:-1 group-title="Deportes",Deportes M3U
+http://bit.ly/DEPOrt-m3u
+
+#EXTINF:-1 group-title="Deportes",Deportes Alternativo
+https://agencyrl.com/listas/deportes6.m3u
+
+#EXTINF:-1 group-title="Deportes",Fútbol Pastebin
+https://pastebin.com/raw/wCnH-1-d3eportes-CDX2
+
+#EXTINF:-1 group-title="Deportes",Champions League
+https://pastebin.com/b1Ji7yxU
+
+# =========================
+
+# 📦 LISTAS VARIADAS
+
+# =========================
+
+#EXTINF:-1 group-title="Variado",Lista Variada
+http://bit.ly/Varia-dos
+
+#EXTINF:-1 group-title="Variado",IPTV Gratis
+http://bit.ly/iptvgratis-vip
+
+#EXTINF:-1 group-title="Variado",Lista PRO
+http://bit.ly/m3u-pro
+
+# =========================
+
+# 🔞 IPTV DIRECTO (STREAMS)
+
+# =========================
+
+#EXTINF:-1 group-title="Adult IPTV",Livecams
+https://live.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 group-title="Adult IPTV",MILF
+https://live.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 group-title="Adult IPTV",Latina
+https://live.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 group-title="Adult IPTV",Lesbian
+https://live.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 group-title="Adult IPTV",Asian
+https://live.adultiptv.net/asian.m3u8
+
+# =========================
+
+# ⚠️ NOTAS
+
+# =========================
+
+# Algunas listas pueden fallar o caducar
+
+# Se recomienda mantener varias fuentes activas
